@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Aerolíneas Argentinas</string>
+		<key>IATA</key>
+		<string>AR</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/AerolineasArgentinas.png</string>
+		<key>Website</key>
+		<string>Aerolineas.com.ar</string>
+		<key>Web Check-In</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 592 1737</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>01 800 700 0200</string>
+		<key>Opening Hours</key>
+		<string>Mon 6:30 AM - 3:00 PM
+Wed 6:30 AM - 3:00 PM
+Fri 6:30 AM - 3:00 PM
+Sun 6:30 AM - 3:00 PM
+Tue,Thu,Sat Closed</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Address</key>
+		<string>Cll 100 No. 19a-10 Oficina 502</string>
+		<key>Phone</key>
+		<string>(+571) 413 5732</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:00 AM - 5:30 PM
+Tue 8:00 AM - 5:30 PM
+Wed 8:00 AM - 5:30 PM
+Thu 8:00 AM - 5:30 PM
+Fri 8:00 AM - 5:30 PM
+Sat 8:00 AM - 5:30 PM
+Sun 8:00 AM - 5:30 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Aeroméxico</string>
+		<key>IATA</key>
+		<string>AM</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/AeroMexico.png</string>
+		<key>Website</key>
+		<string>Aeromexico.com/co</string>
+		<key>Web Check-In</key>
+		<string>http://aeromexico.com/en/us</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 742 4746</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>01 800 952 0533</string>
+		<key>Opening Hours</key>
+		<string>Mon 6:00 PM - 3:00 AM
+Tue 6:00 PM - 3:00 AM
+Wed 6:00 PM - 3:00 AM
+Thu 6:00 PM - 3:00 AM
+Fri 6:00 PM - 3:00 AM
+Sat 6:00 PM - 3:00 AM
+Sun 6:00 PM - 3:00 AM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c29423b7e1028888280</string>
+		<key>Address</key>
+		<string>Carrera 7, # 83 -29 Local 1</string>
+		<key>Phone</key>
+		<string>01 800 952 0533</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 9:00 AM - 5:30 PM
+Tue 9:00 AM - 5:30 PM
+Wed 9:00 AM - 5:30 PM
+Thu 9:00 AM - 5:30 PM
+Fri 9:00 AM - 5:30 PM
+Sat 10:00 AM - 1:00 PM
+Sun Closed</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Air Canada</string>
+		<key>IATA</key>
+		<string>AC</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/AirCanada.png</string>
+		<key>Website</key>
+		<string>AirCanada.com</string>
+		<key>Web Check-In</key>
+		<string>http://www.aircanada.com/co/en/home.html</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 2966353 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon Closed
+Tue 8:00 AM - 5:00 PM
+Wed Closed
+Thu 8:00 AM - 5:00 PM
+Fri Closed
+Sat Closed
+Sun 8:00 AM - 5:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c29423b7e1028888282</string>
+		<key>Address</key>
+		<string>Calle 100 No. 8A – 49 Torre B Piso 8</string>
+		<key>Phone</key>
+		<string>01 800 952 0337</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:00 AM - 5:00 PM
+Tue 8:00 AM - 5:00 PM
+Wed 9:00 AM - 5:00 PM
+Thu 8:00 AM - 5:00 PM
+Fri 9:00 AM - 5:00 PM
+Sat 8:00 AM - 5:00 PM
+Sun 9:00 AM - 5:00 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Air France</string>
+		<key>IATA</key>
+		<string>AF</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/AirFrance.jpg</string>
+		<key>Website</key>
+		<string>AirFrance.com</string>
+		<key>Web Check-In</key>
+		<string>http://www.airfrance.com/cgi-bin/AF/CO/es/common/home/vuelos/billete-avion.do</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 650 6002 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 11:00 AM - 8:00 PM
+Tue 11:00 AM - 8:00 PM
+Wed 11:00 AM - 8:00 PM
+Thu 11:00 AM - 8:00 PM
+Fri 11:00 AM - 8:00 PM
+Sat 11:00 AM - 8:00 PM
+Sun 11:00 AM - 8:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c29423b7e1028888272</string>
+		<key>Address</key>
+		<string>Cra 9a N° 99 – 07 Torre 1 Piso 5</string>
+		<key>Phone</key>
+		<string>(+571) 650 6002-09 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 9:00 AM - 6:00 PM
+Tue 9:00 AM - 6:00 PM
+Wed 9:00 AM - 6:00 PM
+Thu 9:00 AM - 6:00 PM
+Fri 9:00 AM - 6:00 PM
+Sat 9:00 AM - 6:00 PM
+Sun 9:00 AM - 6:00 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>American Airlines</string>
+		<key>IATA</key>
+		<string>AA</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/Directory_AmericanAirlines.png</string>
+		<key>Website</key>
+		<string>AA.com/</string>
+		<key>Web Check-In</key>
+		<string>http://www.aa.com/</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 745 7646 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 7:30 AM - 6:00 PM
+Tue 7:30 AM - 6:00 PM
+Wed 7:30 AM - 6:00 PM
+Thu 7:30 AM - 6:00 PM
+Fri 7:30 AM - 6:00 PM
+Sat 7:30 AM - 6:00 PM
+Sun 7:30 AM - 6:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c37423b7e10288883ca</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Avianca</string>
+		<key>IATA</key>
+		<string>AV</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/Directory_Avianca.png</string>
+		<key>Website</key>
+		<string>Avianca.com</string>
+		<key>Web Check-In</key>
+		<string>http://www.avianca.com/es-co/servicios-electronicos/web-check-in.aspx</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International/National</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 587 7700 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 4:00 AM - 12:30 AM
+Tue 4:00 AM - 12:30 AM
+Wed 4:00 AM - 12:30 AM
+Thu 4:00 AM - 12:30 AM
+Fri 4:00 AM - 12:30 AM
+Sat 9:00 AM - 12:30 AM
+Sun 9:00 AM - 12:30 AM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2a423b7e1028888284</string>
+		<key>Address</key>
+		<string>Av. Dorado N° 92 -30</string>
+		<key>Phone</key>
+		<string>(+571) 401 3434 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:00 AM - 5:30 PM
+Tue 8:00 AM - 5:30 PM
+Wed 8:00 AM - 5:30 PM
+Thu 8:00 AM - 5:30 PM
+Fri 8:00 AM - 5:30 PM
+Sat 8:00 AM - 5:30 PM
+Sun 8:00 AM - 5:30 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Avior Airlines</string>
+		<key>IATA</key>
+		<string>9V</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/9V.png</string>
+		<key>Website</key>
+		<string>AviorAir.com</string>
+		<key>Web Check-In</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 9:00 AM - 12:00 AM
+Tue 9:00 AM - 12:00 AM
+Wed 9:00 AM - 12:00 AM
+Thu 9:00 AM - 12:00 AM
+Fri 9:00 AM - 12:00 AM
+Sat 9:00 AM - 12:00 AM
+Sun 9:00 AM - 12:00 AM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c29423b7e102888827d</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string>Mon 9:00 AM - 12:00 AM
+Tue 9:00 AM - 12:00 AM
+Wed 9:00 AM - 12:00 AM
+Thu 9:00 AM - 12:00 AM
+Fri 9:00 AM - 12:00 AM
+Sat 9:00 AM - 12:00 AM
+Sun 9:00 AM - 12:00 AM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Conviasa</string>
+		<key>IATA</key>
+		<string>V0</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/V0.png</string>
+		<key>Website</key>
+		<string>Conviasa.aero</string>
+		<key>Web Check-In</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 746 1610 (Bogotá)</string>
+		<key>Location</key>
+		<string>Conviasa office, fourth floor</string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 7:00 AM - 5:00 PM
+Tue 7:00 AM - 5:00 PM
+Wed 7:00 AM - 5:00 PM
+Thu 7:00 AM - 5:00 PM
+Fri 7:00 AM - 5:00 PM
+Sat Closed
+Sun 7:00 AM - 12:00 AM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c29423b7e102888827a</string>
+		<key>Address</key>
+		<string>Carrera 102 #25H-45 Oficina 107</string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:00 AM - 5:30 PM
+Tue 8:00 AM - 5:30 PM
+Wed 8:00 AM - 5:30 PM
+Thu 8:00 AM - 5:30 PM
+Fri 8:00 AM - 5:30 PM
+Sat 8:00 AM - 5:30 PM
+Sun 8:00 AM - 5:30 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Copa Airlines</string>
+		<key>IATA</key>
+		<string>CM</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/Copa.png</string>
+		<key>Website</key>
+		<string>CopaAir.com</string>
+		<key>Web Check-In</key>
+		<string>http://www.copaair.com/sites/co/en/pages/homepage.aspx#webcheckin</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International/National</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 638 3323 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>(+571) 413 5421 (Bogotá)</string>
+		<key>Opening Hours</key>
+		<string>Mon 4:30 AM - 9:30 PM
+Tue 4:30 AM - 9:30 PM
+Wed 4:30 AM - 9:30 PM
+Thu 4:30 AM - 9:30 PM
+Fri 4:30 AM - 9:30 PM
+Sat 4:30 AM - 9:30 PM
+Sun 4:30 AM - 9:30 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c37423b7e10288883c0</string>
+		<key>Address</key>
+		<string>Cra 9a N° 99 – 02 Local 108</string>
+		<key>Phone</key>
+		<string>(+571)425 1818 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:00 AM - 5:00 PM
+Tue 8:00 AM - 5:00 PM
+Wed 8:00 AM - 5:00 PM
+Thu 8:00 AM - 5:00 PM
+Fri 8:00 AM - 5:00 PM
+Sat 9:00 AM - 5:30 PM
+Sun 9:00 AM - 5:30 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cubana</string>
+		<key>IATA</key>
+		<string>CU</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/CubanaAirlines.jpg</string>
+		<key>Website</key>
+		<string>Cubana.cu</string>
+		<key>Web Check-In</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 703 5959 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Address</key>
+		<string>Carrera 18 No.79-76. El Lago</string>
+		<key>Phone</key>
+		<string>(+571) 610 1676 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:00 AM - 5:00 PM
+Tue 8:00 AM - 5:00 PM
+Wed 8:00 AM - 5:00 PM
+Thu 8:00 AM - 5:00 PM
+Fri 8:00 AM - 5:00 PM
+Sat Closed
+Sun Closed</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Delta</string>
+		<key>IATA</key>
+		<string>DL</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/Delta.png</string>
+		<key>Website</key>
+		<string>Delta.com</string>
+		<key>Web Check-In</key>
+		<string>https://www.delta.com/</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 549 4482 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 5:00 AM - 10:30 PM
+Tue 5:00 AM - 10:30 PM
+Wed 5:00 AM - 10:30 PM
+Thu 5:00 AM - 10:30 PM
+Fri 5:00 AM - 10:30 PM
+Sat 5:00 AM - 10:30 PM
+Sun 5:00 AM - 10:30 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2c423b7e10288882bf</string>
+		<key>Address</key>
+		<string>Calle 100 No. 7-33 Piso-2</string>
+		<key>Phone</key>
+		<string>(+571) 549 4488 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:00 AM - 5:00 PM
+Tue 8:00 AM - 5:00 PM
+Wed 8:00 AM - 5:00 PM
+Thu 8:00 AM - 5:00 PM
+Fri 8:00 AM - 5:00 PM
+Sat Closed
+Sun Closed</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Iberia</string>
+		<key>IATA</key>
+		<string>IB</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/Iberia.png</string>
+		<key>Website</key>
+		<string>Iberia.com</string>
+		<key>Web Check-In</key>
+		<string>http://www.iberia.com/es/online-checkin/</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 508 7515 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>(+571) 508 7515 (Bogotá)</string>
+		<key>Opening Hours</key>
+		<string>Mon 8:00 AM - 8:00 PM
+Tue 8:00 AM - 8:00 PM
+Wed 8:00 AM - 8:00 PM
+Thu 8:00 AM - 8:00 PM
+Fri 8:00 AM - 8:00 PM
+Sat 8:00 AM - 8:00 PM
+Sun 10:00 AM - 8:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2b423b7e102888829e</string>
+		<key>Address</key>
+		<string>Calle 85 No. 20-10 lp-2</string>
+		<key>Phone</key>
+		<string>(+571) 610 5066 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:30 AM - 5:00 PM
+Tue 8:30 AM - 5:00 PM
+Wed 8:30 AM - 5:00 PM
+Thu 8:30 AM - 5:00 PM
+Fri 8:30 AM - 5:00 PM
+Sat Closed
+Sun Closed</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Interjet</string>
+		<key>IATA</key>
+		<string>4O</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/Interjet.png</string>
+		<key>Website</key>
+		<string>Interjet.com.mx</string>
+		<key>Web Check-In</key>
+		<string>https://www.interjet.com.mx/web-check-in.aspx</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 742 8355</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 9:00 AM - 6:00 PM
+Tue 9:00 AM - 6:00 PM
+Wed 9:00 AM - 6:00 PM
+Thu 9:00 AM - 6:00 PM
+Fri 9:00 AM - 6:00 PM
+Sat 9:00 AM - 6:00 PM
+Sun 9:00 AM - 6:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c29423b7e102888827c</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string>Mon 9:00 AM - 6:00 PM
+Tue 9:00 AM - 6:00 PM
+Wed 9:00 AM - 6:00 PM
+Thu 9:00 AM - 6:00 PM
+Fri 9:00 AM - 6:00 PM
+Sat 9:00 AM - 6:00 PM
+Sun 9:00 AM - 6:00 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>JetBlue</string>
+		<key>IATA</key>
+		<string>B6</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/JetBlue.png</string>
+		<key>Website</key>
+		<string>JetBlue.com</string>
+		<key>Web Check-In</key>
+		<string>http://www2.jetblue.com/mbp/#/checkIn</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 5190 294</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 10:00 AM - 12:00 PM
+Tue 10:00 AM - 12:00 PM
+Wed 10:00 AM - 12:00 PM
+Thu 10:00 AM - 12:00 PM
+Fri 10:00 AM - 12:00 PM
+Sat 10:00 AM - 12:00 PM
+Sun 10:00 AM - 12:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Address</key>
+		<string>Cra 16 No. 79-47</string>
+		<key>Phone</key>
+		<string>01 800 915 6761</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 9:00 AM - 6:00 PM
+Tue 9:00 AM - 6:00 PM
+Wed 9:00 AM - 6:00 PM
+Thu 9:00 AM - 6:00 PM
+Fri 9:00 AM - 6:00 PM
+Sat 9:00 AM - 6:00 PM
+Sun 9:00 AM - 6:00 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>KLM</string>
+		<key>IATA</key>
+		<string>KL</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/KL.png</string>
+		<key>Website</key>
+		<string>KLM.com</string>
+		<key>Web Check-In</key>
+		<string>https://www.klm.com/ams/checkin/web/kl/es/es</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 650 6008</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>(+571) 650 6008</string>
+		<key>Opening Hours</key>
+		<string>Mon-Fri 6:30 AM - 4:00 PM
+Sat,Sat Closed</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Address</key>
+		<string>Carrera 9A Nro. 99-07 (Torre 1 Piso 5)</string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string>8:00 AM - 5:30 PM
+</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>LAN</string>
+		<key>IATA</key>
+		<string>LA</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/Lan.png</string>
+		<key>Website</key>
+		<string>LAN.com</string>
+		<key>Web Check-In</key>
+		<string>http://www.lan.com/cgi-bin/checkin/paso1.cgi</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International/National</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 294 0330 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 4:45 AM - 7:30 PM
+Tue 4:45 AM - 7:30 PM
+Wed 4:45 AM - 7:30 PM
+Thu 4:45 AM - 7:30 PM
+Fri 4:45 AM - 7:30 PM
+Sat Closed
+Sun Closed</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c29423b7e1028888271</string>
+		<key>Address</key>
+		<string>Cra 11 N° 76 - 14 Local 102</string>
+		<key>Phone</key>
+		<string>(+571) 321 3650 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:00 AM - 5:30 PM
+Tue 8:00 AM - 5:30 PM
+Wed 8:00 AM - 5:30 PM
+Thu 8:00 AM - 5:30 PM
+Fri 9:00 AM - 6:00 PM
+Sat 9:00 AM - 6:00 PM
+Sun Closed</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lufthansa</string>
+		<key>IATA</key>
+		<string>LH</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/Directory_Lufthansa.png</string>
+		<key>Website</key>
+		<string>Lufthansa.com</string>
+		<key>Web Check-In</key>
+		<string>http://www.lufthansa.com/co/es/Facturacion-Online</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 508 8000</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 9:00 AM - 6:00 PM
+Tue 9:00 AM - 6:00 PM
+Wed 9:00 AM - 6:00 PM
+Thu 9:00 AM - 6:00 PM
+Fri 9:00 AM - 6:00 PM
+Sat 9:00 AM - 6:00 PM
+Sun 9:00 AM - 6:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c29423b7e1028888276</string>
+		<key>Address</key>
+		<string>Calle 100 No 8A 49 Torre B Piso 7 Oficina 713</string>
+		<key>Phone</key>
+		<string>(+571) 742 8525 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 9:00 AM - 1:00 PM
+Tue 9:00 AM - 1:00 PM
+Wed 9:00 AM - 1:00 PM
+Thu 9:00 AM - 1:00 PM
+Fri 9:00 AM - 1:00 PM
+Sat 9:00 AM - 1:00 PM
+Sun 9:00 AM - 1:00 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Spirit</string>
+		<key>IATA</key>
+		<string>NK</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/logo-spirit1.png</string>
+		<key>Website</key>
+		<string>Spirit.com</string>
+		<key>Web Check-In</key>
+		<string>https://www.spirit.com/Default.aspx#check-in</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 547 8306 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 4:00 AM - 5:00 PM
+Tue 4:00 AM - 5:00 PM
+Wed 4:00 AM - 5:00 PM
+Thu 4:00 AM - 5:00 PM
+Fri 4:00 AM - 5:00 PM
+Sat 4:00 AM - 5:00 PM
+Sun 4:00 AM - 5:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c29423b7e102888827d</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string>(+571) 493 8714 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:00 AM - 5:00 PM
+Tue 8:00 AM - 5:00 PM
+Wed 8:00 AM - 5:00 PM
+Thu 8:00 AM - 5:00 PM
+Fri 8:00 AM - 5:00 PM
+Sat 8:00 AM - 5:00 PM
+Sun 8:00 AM - 5:00 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Tame</string>
+		<key>IATA</key>
+		<string>EQ</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/Tame.png</string>
+		<key>Website</key>
+		<string>Tame.com.ec</string>
+		<key>Web Check-In</key>
+		<string>https://www.tame.com.ec/index.php/es/</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International/National</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 746 0790 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>(+572) 620 5657 (Cali)</string>
+		<key>Opening Hours</key>
+		<string>Mon 6:00 PM - 3:00 AM
+Tue 9:00 AM - 6:00 AM
+Wed 9:00 AM - 6:00 AM
+Thu 9:00 AM - 6:00 AM
+Fri 9:00 AM - 6:00 AM
+Sat Closed
+Sun Closed</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2a423b7e1028888285</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string>Mon 9:00 AM - 6:00 PM
+Tue 9:00 AM - 6:00 PM
+Wed 9:00 AM - 6:00 PM
+Thu 9:00 AM - 6:00 PM
+Fri 9:00 AM - 6:00 PM
+Sat 9:00 AM - 6:00 PM
+Sun 9:00 AM - 6:00 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>TAP Portugal</string>
+		<key>IATA</key>
+		<string>TP</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/TAP.png</string>
+		<key>Website</key>
+		<string>FlyTAP.com</string>
+		<key>Web Check-In</key>
+		<string>http://www.flytap.com/Colombia/es/Inicio</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 745 8894</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 4:00 AM - 5:00 PM
+Tue 4:00 AM - 5:00 PM
+Wed 4:00 AM - 5:00 PM
+Thu 4:00 AM - 5:00 PM
+Fri 4:00 AM - 5:00 PM
+Sat 4:00 AM - 5:00 PM
+Sun 4:00 AM - 5:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2a423b7e1028888287</string>
+		<key>Address</key>
+		<string>Calle 26 # 59-51, Oficina 211 Torre 3 - Centro Empresarial Sarmiento Angulo</string>
+		<key>Phone</key>
+		<string>(+571) 745 8893</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:30 AM - 5:00 PM
+Tue 8:30 AM - 5:00 PM
+Wed 8:30 AM - 5:00 PM
+Thu 8:30 AM - 5:00 PM
+Fri 8:30 AM - 5:00 PM
+Sat Closed
+Sun Closed</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>United Airlines</string>
+		<key>IATA</key>
+		<string>UA</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/UnitedAirlines1.png</string>
+		<key>Website</key>
+		<string>United.com</string>
+		<key>Web Check-In</key>
+		<string>https://www.united.com/travel/checkin/start.aspx</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · International</string>
+		<key>Main Phone Number</key>
+		<string>01 800 944 0219</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 6:00 AM - 11:00 PM
+Tue 6:00 AM - 11:00 PM
+Wed 6:00 AM - 11:00 PM
+Thu 6:00 AM - 11:00 PM
+Fri 6:00 AM - 11:00 PM
+Sat 6:00 AM - 11:00 PM
+Sun 6:00 AM - 11:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c32423b7e102888834c</string>
+		<key>Address</key>
+		<string>Cra 7a N° 71 - 26 torre 2 Piso 11</string>
+		<key>Phone</key>
+		<string>6383323 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:30 AM - 5:00 PM
+Tue 8:30 AM - 5:00 PM
+Wed 8:30 AM - 5:00 PM
+Thu 8:30 AM - 5:00 PM
+Fri 8:30 AM - 5:00 PM
+Sat 8:30 AM - 5:00 PM
+Sun 8:30 AM - 5:00 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>EasyFly</string>
+		<key>IATA</key>
+		<string>EF</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/EasyFly.png</string>
+		<key>Website</key>
+		<string>EasyFly.com.co</string>
+		<key>Web Check-In</key>
+		<string>https://www.easyfly.com.co/mobile/Consultas/WebCheckIn</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger- National</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 414 8111 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 4:00 AM - 8:30 PM
+Tue 4:00 AM - 8:30 PM
+Wed 4:00 AM - 8:30 PM
+Thu 4:00 AM - 8:30 PM
+Fri 4:00 AM - 8:30 PM
+Sat 4:00 AM - 8:30 PM
+Sun 4:00 AM - 8:30 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2a423b7e102888828c</string>
+		<key>Address</key>
+		<string>Av. dorado Entrada 1 Hangar 14</string>
+		<key>Phone</key>
+		<string>(+571) 414 8094 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:30 AM - 5:30 PM
+Tue 8:30 AM - 5:30 PM
+Wed 8:30 AM - 5:30 PM
+Thu 8:30 AM - 5:30 PM
+Fri 8:30 AM - 5:30 PM
+Sat Closed
+Sun Closed</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Satena</string>
+		<key>IATA</key>
+		<string>9R</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/Satena.png</string>
+		<key>Website</key>
+		<string>Satena.com</string>
+		<key>Web Check-In</key>
+		<string>http://www.satena.com/mobile/web-check-in/</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · National</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 423 8530</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>(+571) 423 8530 Ext. 2079</string>
+		<key>Opening Hours</key>
+		<string>Mon 4:30 AM - 8:00 PM
+Tue 4:30 AM - 8:00 PM
+Wed 4:30 AM - 8:00 PM
+Thu 9:00 AM - 8:00 PM
+Fri 4:00 AM - 8:30 PM
+Sat 4:30 AM - 8:00 PM
+Sun 4:30 AM - 8:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2e423b7e10288882eb</string>
+		<key>Address</key>
+		<string>Av. dorado Entrada 1 Int 11</string>
+		<key>Phone</key>
+		<string>(+571) 423 8530 (Bogotá)</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:00 AM - 5:30 PM
+Tue 8:00 AM - 5:30 PM
+Wed 8:00 AM - 5:30 PM
+Thu 8:00 AM - 5:30 PM
+Fri 8:00 AM - 5:30 PM
+Sat Closed
+Sun Closed</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>TAC</string>
+		<key>IATA</key>
+		<string>TAC</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/logotac.png</string>
+		<key>Website</key>
+		<string>TACColombia.com</string>
+		<key>Web Check-In</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · National</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 4147913 (Bogotá)</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 9:00 AM - 6:00 PM
+Tue 9:00 AM - 6:00 PM
+Wed 9:00 AM - 6:00 PM
+Thu 9:00 AM - 6:00 PM
+Fri 9:00 AM - 6:00 PM
+Sat Closed
+Sun Closed</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string>Mon 9:00 AM - 6:00 PM
+Tue 9:00 AM - 6:00 PM
+Wed 9:00 AM - 6:00 PM
+Thu 9:00 AM - 6:00 PM
+Fri 9:00 AM - 6:00 PM
+Sat Closed
+Sun Closed</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Viva Colombia</string>
+		<key>IATA</key>
+		<string>VV</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/VivaColombia.png</string>
+		<key>Website</key>
+		<string>VivaColombia.co</string>
+		<key>Web Check-In</key>
+		<string>http://www.vivacolombia.co/co/alistatuviaje/checkinyabordaje.htm</string>
+		<key>CategoryID</key>
+		<string>4</string>
+		<key>Category</key>
+		<string>Airlines</string>
+		<key>Type</key>
+		<string>Passenger · National</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 489 7989</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string></string>
+		<key>Opening Hours</key>
+		<string>Mon 9:00 AM - 6:00 PM
+Tue 9:00 AM - 6:00 PM
+Wed 9:00 AM - 6:00 PM
+Thu 9:00 AM - 6:00 PM
+Fri 9:00 AM - 6:00 PM
+Sat 9:00 AM - 6:00 PM
+Sun 9:00 AM - 6:00 PM</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string>(+571) 489 7989</string>
+		<key>Opening Hours_2</key>
+		<string>Mon 8:00 AM - 9:00 PM
+Tue 8:00 AM - 9:00 PM
+Wed 8:00 AM - 9:00 PM
+Thu 8:00 AM - 9:00 PM
+Fri 8:00 AM - 9:00 PM
+Sat 9:00 AM - 6:00 PM
+Sun 9:00 AM - 7:00 PM</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

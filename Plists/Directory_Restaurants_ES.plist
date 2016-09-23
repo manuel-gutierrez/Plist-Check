@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Aerodelikatessen</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/AerodelikatessenNEW.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Mini Mercado</string>
+		<key>Type</key>
+		<string>Comida · Café · Misc.</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2d423b7e10288882d1</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Alfredo</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/Alfredo.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Casual Rápido · Comida italiana</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>Mezzanine 1</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c30423b7e102888831b</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bogotá Beer Company</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/BogotaBeerCompany.png</string>
+		<key>Website</key>
+		<string>BogotaBeerCompany.com</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Bar</string>
+		<key>Type</key>
+		<string>Tapas · Licor</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Nacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2e423b7e10288882e6</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Café Café</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Tienda de Café</string>
+		<key>Type</key>
+		<string>Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>Mezzanine 1</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Café Don Pedro</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Tienda de Café</string>
+		<key>Type</key>
+		<string>Comidas · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2d423b7e10288882d0</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Café Gourmet</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/CafeGourmet.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Tienda de Café</string>
+		<key>Type</key>
+		<string>Comidas · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2b423b7e10288882a5</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Café Quindío</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/CafeQuindio.png</string>
+		<key>Website</key>
+		<string>CafeQuindio.com.co</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Tienda de Café</string>
+		<key>Type</key>
+		<string>Comidas · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2f423b7e1028888300</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Café XUE</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/Xue.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Tienda de Café</string>
+		<key>Type</key>
+		<string>Comidas · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2d423b7e10288882d2</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cigarrería Internacional</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Mini Mercado</string>
+		<key>Type</key>
+		<string>Comida · Café · Misc.</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c33423b7e102888836d</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Crepes &amp; Waffles</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/Crepes.jpg</string>
+		<key>Website</key>
+		<string>CrepesYWaffles.com.co</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Casual rápida · Crepes · Waffles</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>Mezzanine 1</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55e8da86c1843a0ebccadbcb</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Diana Cigarrería</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/CigarreriaDiana.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Mini Mercado</string>
+		<key>Type</key>
+		<string>Comida · Café · Misc.</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2f423b7e102888830e</string>
+		<key>Floor Number_2</key>
+		<string>2 (Salidas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Diana&apos;s Restaurant</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Casual rápida</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>Mezzanine 1</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c30423b7e102888831a</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Donut Factory</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/DonutFactory1.png</string>
+		<key>Website</key>
+		<string>DonutFactory.com.co</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Pastelería</string>
+		<key>Type</key>
+		<string>Donuts · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string>2 (Salidas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2b423b7e102888829d</string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Dunkin&apos; Donuts</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/DunkinDonuts.png</string>
+		<key>Website</key>
+		<string>DunkinDonuts.com.co</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Pastelería</string>
+		<key>Type</key>
+		<string>Donuts · Café · Desayuno</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Muelle Nacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c28423b7e1028888252</string>
+		<key>Floor Number_2</key>
+		<string>2 (Salidas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Muelle Nacional</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Map Location ID_2</key>
+		<string>55915c2d423b7e10288882dc</string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>El Cafetalito</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Tienda de Café</string>
+		<key>Type</key>
+		<string>Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c27423b7e1028888246</string>
+		<key>Floor Number_2</key>
+		<string>1 (Llegadas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>El Corral</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/ElCorral.jpg</string>
+		<key>Website</key>
+		<string>ElCorral.com</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Comida rápida · Hamburguesas</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>Mezzanine 1</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c30423b7e1028888314</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Frisby</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/04/Frisby.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Comida rápida · Pollo</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>Mezzanine 1</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c30423b7e1028888321</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iemark</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/Iemark.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Mini Mercado</string>
+		<key>Type</key>
+		<string>Comida · Café · Misc.</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jardín… Es</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/JardinEs.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Tienda de Café</string>
+		<key>Type</key>
+		<string>Comidas · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2d423b7e10288882db</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Juan Valdez Café</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/JuanValdez.png</string>
+		<key>Website</key>
+		<string>JuanValdezVafe.com</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Tienda de Café</string>
+		<key>Type</key>
+		<string>Comidas · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL</key>
+		<string>http://bogairport.com/wp-content/uploads/Mapa-Piso-2-D.png</string>
+		<key>Map Location ID</key>
+		<string>55915c2c423b7e10288882c9</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Katios</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/Katios.png</string>
+		<key>Website</key>
+		<string>Katios.com.co</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Casual rápida · Almuerzo</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 547 8757</string>
+		<key>Floor Number</key>
+		<string>Mezzanine 1</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Kokoriko</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/KokoricoNew.png</string>
+		<key>Website</key>
+		<string>Kokoriko.com.co</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Comida rápida · Almuerzo</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2e423b7e10288882e4</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mimo&apos;s</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/Mimos.png</string>
+		<key>Website</key>
+		<string>HeladosMimos.com.co</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Cafetería</string>
+		<key>Type</key>
+		<string>Helados · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c28423b7e1028888253</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Multi Express</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/MultiExpress.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Mini Mercado</string>
+		<key>Type</key>
+		<string>Comida · Café · Misc.</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string>2 (Salidas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mundo Delicias</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Mini Mercado</string>
+		<key>Type</key>
+		<string>Comida · Café · Misc.</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2c423b7e10288882b4</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>OMA</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/Oma.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Tienda de Café</string>
+		<key>Type</key>
+		<string>Comidas · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c27423b7e1028888248</string>
+		<key>Floor Number_2</key>
+		<string>2 (Salidas)</string>
+		<key>Area_2</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location_2</key>
+		<string>Muelle Nacional</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Map Location ID_2</key>
+		<string>55915c2c423b7e10288882c7</string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Orleans</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/Orleans.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Casual · Comida Americana</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2a423b7e1028888290</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Pan Tolima</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/PanTolima.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Panadería</string>
+		<key>Type</key>
+		<string>Comida · Café · Postres</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2d423b7e10288882e1</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Pastelitos</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/Pastelitos.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Panadería · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c33423b7e1028888371</string>
+		<key>Floor Number_2</key>
+		<string>2 (Salidas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Map Location ID_2</key>
+		<string>55915c2b423b7e10288882a8</string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Piccolo</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/Piccolo-2.png</string>
+		<key>Website</key>
+		<string>Pizzaspiccolo.com.co</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Comida rápida · Pizza</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>Mezzanine 1</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c30423b7e102888831c</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Pick Up Express</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Mini Mercado</string>
+		<key>Type</key>
+		<string>Comida · Café · Misc.</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Nacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c28423b7e1028888258</string>
+		<key>Floor Number_2</key>
+		<string>2 (Salidas)</string>
+		<key>Area_2</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location_2</key>
+		<string>Muelle Nacional</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Map Location ID_2</key>
+		<string>55915c2c423b7e10288882c2</string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Santa Elena</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/SantaElena.png</string>
+		<key>Website</key>
+		<string>SantaElena.com.co</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Café · Postres</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Nacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string>1 (Llegadas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Santaferra</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Comida casual</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Subway</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/Subway.png</string>
+		<key>Website</key>
+		<string>SubwayColombia.com</string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Comida rápida</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c28423b7e1028888259</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Teppanyaki</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Casual rápida · Asiática</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>Mezzanine 1</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c30423b7e102888831d</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Tradición Café</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Tienda de Café</string>
+		<key>Type</key>
+		<string>Comidas · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2c423b7e10288882c6</string>
+		<key>Floor Number_2</key>
+		<string>2 (Salidas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Typykos</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Restaurante</string>
+		<key>Type</key>
+		<string>Casual rápida · Colombiana</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>Mezzanine 1</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Zyrope Café-Bar</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>2</string>
+		<key>Category</key>
+		<string>Tienda de Café</string>
+		<key>Type</key>
+		<string>Comidas · Café</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Nacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2b423b7e102888829f</string>
+		<key>Floor Number_2</key>
+		<string>Mezzanine 1</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

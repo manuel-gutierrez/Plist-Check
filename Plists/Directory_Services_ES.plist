@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Aerocambios</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/Aerocambios.png</string>
+		<key>Website</key>
+		<string>Aerocambios.com</string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Casa de Cambios</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string>1 (Llegadas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2c423b7e10288882b3</string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Assist Card</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/AssistCard.png</string>
+		<key>Website</key>
+		<string>AssistCard.com</string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Seguros de Viaje</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2d423b7e10288882d9</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Banco Bancolombia</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/Bancolombia.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Cajeros</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string>2 (Salidas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Banco Caja Social</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/BancoCajaSocial.png</string>
+		<key>Website</key>
+		<string>BancoCajaSocial.com</string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Cajeros</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Location ID</key>
+		<string>55915c2e423b7e10288882fb</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string>1 (Llegadas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>BCD Travel</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/BCDTravel.png</string>
+		<key>Website</key>
+		<string>BCDtravel.com.co</string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Agencia de Turismo</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 795 6036</string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c37423b7e10288883c5</string>
+		<key>Floor Number_2</key>
+		<string>2 (Salidas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cambios Alcansa</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Casa de Cambios</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c27423b7e102888824c</string>
+		<key>Floor Number_2</key>
+		<string>1 (Llegadas)</string>
+		<key>Area_2</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location_2</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Map Location ID_2</key>
+		<string>55915c28423b7e1028888256</string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Droguería Colsubsidio</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/DrogueriasColsubsidio.png</string>
+		<key>Website</key>
+		<string>DrogueriasColsubsidio.com</string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Farmacia</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c36423b7e10288883b5</string>
+		<key>Floor Number_2</key>
+		<string>2 (Salidas)</string>
+		<key>Area_2</key>
+		<string>Pública</string>
+		<key>Location_2</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Map Location ID_2</key>
+		<string>55915c2e423b7e10288882ee</string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Flash Rent a Car</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string>Flashrentacar.com.co</string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Alquiler de Automóviles</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c27423b7e1028888242</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Globo Cambio</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/GlobalCambios-1.png</string>
+		<key>Website</key>
+		<string>GloboCambio.co</string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Casa de Cambios</string>
+		<key>Main Phone Number</key>
+		<string>(+571) 744 1596</string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hertz</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/Hertz.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Alquiler de Automóviles</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>IDT</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/IDT.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Turismo</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Sólo Pasajeros (Restringida)</string>
+		<key>Location</key>
+		<string>Muelle Internacional</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c28423b7e1028888254</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Casa de Cambios</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/themes/hostmev2-child/images/Logo_Missing.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Casa de Cambios</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>1 (Llegadas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Peluquería El Dorado</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/PeluqueriaElDorado.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>1</string>
+		<key>Category</key>
+		<string>Servicios</string>
+		<key>Type</key>
+		<string>Salón de Belleza</string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Floor Number</key>
+		<string>2 (Salidas)</string>
+		<key>Area</key>
+		<string>Pública</string>
+		<key>Location</key>
+		<string>Terminal Unificada</string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c2b423b7e10288882ac</string>
+		<key>Floor Number_2</key>
+		<string></string>
+		<key>Area_2</key>
+		<string></string>
+		<key>Location_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

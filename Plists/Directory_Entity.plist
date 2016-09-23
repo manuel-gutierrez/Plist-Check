@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Aeronautica Civil</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/Aerocivil.png</string>
+		<key>Website</key>
+		<string>Aerocivil.gov.co</string>
+		<key>CategoryID</key>
+		<string>3</string>
+		<key>Category</key>
+		<string>Entity</string>
+		<key>Type</key>
+		<string></string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>(+571) 425 1000</string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55e8b937c1843a0ebccadbb1</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string>La Aeronáutica Civil trabaja para garantizar el desarrollo ordenado de la aviación civil, de la industria aérea y la utilización segura del espacio aéreo colombiano, facilitando el transporte intermodal y contribuyendo al mejoramiento de la competitividad del país.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Agencia ITRC</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/ITRC.png</string>
+		<key>Website</key>
+		<string>ITRC.gov.co</string>
+		<key>CategoryID</key>
+		<string>3</string>
+		<key>Category</key>
+		<string>Entity</string>
+		<key>Type</key>
+		<string></string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>(+571) 377 0400 Ext 1010</string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c27423b7e102888824a</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string>The ITRC agency monitors the INTEGRITY of the collection and administration process for goods, revenues, taxes and non-fiscal contributions performed by the DIAN, UGPP and COLJUEGOS. This agency is also responsible for protecting the Colombian people´s money and resources, by strengthening the three monitored agencies, with the purpose of generating more revenues for the Nation.
+            
+            Any complaints or accusations against DIAN, UGPP and COLJUEGOS officials who incur in serious disciplinary faults must be made before the ITRC.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Health Authority</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/SanidadAeroportuaria.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>3</string>
+		<key>Category</key>
+		<string>Entity</string>
+		<key>Type</key>
+		<string></string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Location</key>
+		<string>Near the Parking Lot North entry</string>
+		<key>Phone Number</key>
+		<string>(+571) 220 5674</string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55e8b5a2c1843a0ebccadbaa</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string>The place where they are attended medical emergencies at El Dorado Airport.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>DIAN</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/Dian.png</string>
+		<key>Website</key>
+		<string>Dian.gov.co</string>
+		<key>CategoryID</key>
+		<string>3</string>
+		<key>Category</key>
+		<string>Entity</string>
+		<key>Type</key>
+		<string></string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Location</key>
+		<string>International Check-In Hall - Near Counter #68</string>
+		<key>Phone Number</key>
+		<string>(+571) 607 9999</string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c35423b7e102888838e</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string>La Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales, DIAN, tiene como objeto coadyuvar a garantizar la seguridad fiscal del Estado colombiano y la protección del orden público económico nacional,</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Diócesis de Fontibón</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/Diocesis_de_Fontibon.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>3</string>
+		<key>Category</key>
+		<string>Entity</string>
+		<key>Type</key>
+		<string></string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Location</key>
+		<string>Curia: Carrera 98 N. 17A-81, Fontibón</string>
+		<key>Phone Number</key>
+		<string>(+571) 418 1036</string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c38423b7e10288883de</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Antinarcotics Police</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/PoliciaNacional.jpg</string>
+		<key>Website</key>
+		<string>Policia.gov.co</string>
+		<key>CategoryID</key>
+		<string>3</string>
+		<key>Category</key>
+		<string>Entity</string>
+		<key>Type</key>
+		<string></string>
+		<key>Main Phone Number</key>
+		<string>(+571) 315 9111 (Bogotá)</string>
+		<key>Location</key>
+		<string>International Check-In Hall - Near Counter #68</string>
+		<key>Phone Number</key>
+		<string>(571) 439 7435</string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string>La Policía Nacional es un cuerpo armado, permanente, de naturaleza civil encargado de mantener y garantizar el orden público interno de la Nación. Se conformó para proteger a todas las personas en su vida, honra, bienes, creencias y demás derechos y libertades.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Transportation Police</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/PoliciaNacional1.jpg</string>
+		<key>Website</key>
+		<string>Policia.gov.co</string>
+		<key>CategoryID</key>
+		<string>3</string>
+		<key>Category</key>
+		<string>Entity</string>
+		<key>Type</key>
+		<string></string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>(+571) 324 08 00 - Ext 1686</string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hospital de Fontibón</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/Hospital.png</string>
+		<key>Website</key>
+		<string></string>
+		<key>CategoryID</key>
+		<string>3</string>
+		<key>Category</key>
+		<string>Entity</string>
+		<key>Type</key>
+		<string></string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Location</key>
+		<string>International Check-In Hall - Near Counter #68</string>
+		<key>Phone Number</key>
+		<string>(+571) 486 00 33</string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c38423b7e10288883de</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string>Las nuevas y modernas instalaciones de aproximadamente 56m², cuentas con dos áreas básicas: la primera, vacunación para viajeros, y la segunda, oficinas para el personal a cargo de llevar la labor de inspección, vigilancia y control en el Aeropuerto.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Instituto Colombiano Agropecuario (ICA)</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/03/ICA.png</string>
+		<key>Website</key>
+		<string>ICA.gov.co</string>
+		<key>CategoryID</key>
+		<string>3</string>
+		<key>Category</key>
+		<string>Entity</string>
+		<key>Type</key>
+		<string></string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Location</key>
+		<string>Carrera 41 No. 17-81</string>
+		<key>Phone Number</key>
+		<string>(+571) 332 3700 Bogotá</string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string>El Instituto Colombiano Agropecuario, ICA, es una entidad Pública del Orden Nacional con personería jurídica, autonomía administrativa y patrimonio independiente, perteneciente al Sistema Nacional de Ciencia y Tecnología, adscrita al Ministerio de Agricultura y Desarrollo Rural.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Migración Colombia</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/2014/02/MigracionColombia.png</string>
+		<key>Website</key>
+		<string>MigracionColombia.gov.co</string>
+		<key>CategoryID</key>
+		<string>3</string>
+		<key>Category</key>
+		<string>Entity</string>
+		<key>Type</key>
+		<string></string>
+		<key>Main Phone Number</key>
+		<string>(57-1) 605-5454</string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>01-8000-510-454</string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c31423b7e1028888340</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string>Civil security organization; autonomous under the Ministry of Foreign Affairs, which aims to exercise the functions of supervisory authority and control immigration and aliens of the Colombian State. servicio.ciudadano@migracioncolombia.gov.co</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>OPAIN</string>
+		<key>Logo URL</key>
+		<string>http://cdn.eldorado.creativivo.com/wp-content/uploads/01cb3240-smush-Logo-Opain-150px.png</string>
+		<key>Website</key>
+		<string>OPAIN.co</string>
+		<key>CategoryID</key>
+		<string>3</string>
+		<key>Category</key>
+		<string>Entity</string>
+		<key>Type</key>
+		<string></string>
+		<key>Main Phone Number</key>
+		<string></string>
+		<key>Location</key>
+		<string></string>
+		<key>Phone Number</key>
+		<string>(+571) 439 7070</string>
+		<key>Opening Hours</key>
+		<string></string>
+		<key>Map Image URL</key>
+		<string></string>
+		<key>Map Location ID</key>
+		<string>55915c37423b7e10288883c3</string>
+		<key>Address</key>
+		<string></string>
+		<key>Phone</key>
+		<string></string>
+		<key>Opening Hours_2</key>
+		<string></string>
+		<key>Map Image URL_2</key>
+		<string></string>
+		<key>Additional Information</key>
+		<string>OPAIN S.A. es una empresa constituida con el objetivo único de administrar, modernizar, desarrollar comercialmente, expandir, operar y mantener el Aeropuerto Internacional El Dorado.</string>
+	</dict>
+</array>
+</plist>
